@@ -19,7 +19,8 @@ Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
 01/08 |  | No meeting
 
-### Presenters
+---
+#### Presenters
 
 Abbreviation | Name
 ------------ | ----
