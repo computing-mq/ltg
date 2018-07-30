@@ -17,8 +17,8 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
-01/08 |  | No meeting
 06/08 |  Omid Mohamad Nezami | [Face-Cap: Image Captioning using Facial Expression Analysis](https://arxiv.org/abs/1807.02250)
+01/08 |  | No meeting
 
 ---
 ### Presenters
