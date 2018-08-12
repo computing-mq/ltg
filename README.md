@@ -11,12 +11,13 @@ We meet on Monday mornings (unless otherwise specified *),
 welcome to join us.
 
 Contact [Diego Molla](http://web.science.mq.edu.au/~diego/) if you'd
-like to get more information or to join the mailing list.
+like to get more information or to join the mailing list. You can follow the link to the [live site](https://computing-mq.github.io/ltg/).
 
 ### Papers / Topics
 
 Date | [Presenter](#presenters) | Topic
----- | --------- | -----
+----- | --------- | -----
+<img width=100></img>||
 Aug 06 |  Omid Mohamad Nezami | [Face-Cap: Image Captioning using Facial Expression Analysis](https://arxiv.org/abs/1807.02250)
 Aug 13 |  Paria Jamhsid Lou | [Parsing Speech: A Neural Approach to Integrating Lexical and Acoustic-Prosodic Information](https://arxiv.org/pdf/1704.07287.pdf)
 Aug 20 |  Jiwei Wan | 
