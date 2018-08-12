@@ -17,8 +17,8 @@ like to get more information or to join the mailing list. You can follow the lin
 
 Date | [Presenter](#presenters) | Topic
 ----- | --------- | -----
-<img width=100></img>||
-Aug 06 |  Omid Mohamad Nezami | [Face-Cap: Image Captioning using Facial Expression Analysis](https://arxiv.org/abs/1807.02250)
+||
+Aug 06 <img width=50></img> |  Omid Mohamad Nezami | [Face-Cap: Image Captioning using Facial Expression Analysis](https://arxiv.org/abs/1807.02250)
 Aug 13 |  Paria Jamhsid Lou | [Parsing Speech: A Neural Approach to Integrating Lexical and Acoustic-Prosodic Information](https://arxiv.org/pdf/1704.07287.pdf)
 Aug 20 |  Jiwei Wan | 
 Aug 27 |  Diego Molla | 
