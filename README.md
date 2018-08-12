@@ -17,16 +17,17 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
-01/08 |  | No meeting
-06/08 |  Omid Mohamad Nezami | [Face-Cap: Image Captioning using Facial Expression Analysis](https://arxiv.org/abs/1807.02250)
-13/08 |  Paria Jamhsid Lou | [Parsing Speech: A Neural Approach to Integrating Lexical and Acoustic-Prosodic Information](https://arxiv.org/pdf/1704.07287.pdf)
-20/08 |  Jiwei Wan | 
-27/08 |  Diego Molla | 
-03/09 |  TBA | 
-10/09 |  TBA | 
-17/09 |  David Rajaratnam | 
-24/09 |  TBA | 
-01/10 |  No meeting | 
+Aug 06 |  Omid Mohamad Nezami | [Face-Cap: Image Captioning using Facial Expression Analysis](https://arxiv.org/abs/1807.02250)
+Aug 13 |  Paria Jamhsid Lou | [Parsing Speech: A Neural Approach to Integrating Lexical and Acoustic-Prosodic Information](https://arxiv.org/pdf/1704.07287.pdf)
+Aug 20 |  Jiwei Wan | 
+Aug 27 |  Diego Molla | 
+||
+Sep 03 |  TBA | 
+Sep 10 |  TBA | 
+Sep 17 |  David Rajaratnam | 
+Sep 24 |  TBA | 
+||
+Oct 01 |  No meeting | 
 
 ---
 ### Presenters
