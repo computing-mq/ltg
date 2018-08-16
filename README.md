@@ -20,7 +20,7 @@ Date | [Presenter](#presenters) | Topic
 ||
 Aug 06 &nbsp;&nbsp; |  Omid Mohamad Nezami | [Face-Cap: Image Captioning using Facial Expression Analysis](https://arxiv.org/abs/1807.02250)
 Aug 13 |  Paria Jamhsid Lou | [Parsing Speech: A Neural Approach to Integrating Lexical and Acoustic-Prosodic Information](https://arxiv.org/pdf/1704.07287.pdf)
-Aug 20 |  Jiwei Wan | 
+Aug 20 |  Jiwei Guan | [Introducing a real time object detection framework—YOLO](https://pjreddie.com/media/files/papers/YOLOv3.pdf)
 Aug 27 |  Diego Molla | 
 ||
 Sep 03 |  TBA | 
