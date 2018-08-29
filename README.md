@@ -11,7 +11,7 @@ We meet on Monday mornings (unless otherwise specified *),
 welcome to join us.
 
 Contact [Diego Molla](http://web.science.mq.edu.au/~diego/) if you'd
-like to get more information or to join the mailing list. You can follow the link to the [live site](https://computing-mq.github.io/ltg/).
+like to get more information or to join the mailing list. 
 
 ### Papers / Topics
 
