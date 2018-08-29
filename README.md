@@ -23,7 +23,7 @@ Aug 13 |  Paria Jamhsid Lou | [Parsing Speech: A Neural Approach to Integrating 
 Aug 20 |  Jiwei Guan | [Introducing a real time object detection framework—YOLO](https://pjreddie.com/media/files/papers/YOLOv3.pdf)
 Aug 27 |  Diego Molla | Deep learning and deep reinforcement learning for query-based multi-document summarisation
 ||
-Sep 03 |  TBA | 
+Sep 03 |  Steve Cassidy | Mining the Government Gazettes
 Sep 10 |  TBA | 
 Sep 17 |  David Rajaratnam | 
 Sep 24 |  TBA | 
