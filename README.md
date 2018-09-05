@@ -24,7 +24,7 @@ Aug 20 |  Jiwei Guan | [Introducing a real time object detection framework—YOL
 Aug 27 |  Diego Molla | Deep learning and deep reinforcement learning for query-based multi-document summarisation
 ||
 Sep 03 |  Steve Cassidy | Mining the Government Gazettes
-Sep 10 |  TBA | 
+Sep 10 |  Rolf Schwitter | Answer Set Programming for Urbi et Orbi
 Sep 17 |  David Rajaratnam | 
 Sep 24 |  TBA | 
 ||
