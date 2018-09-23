@@ -26,7 +26,7 @@ Aug 27 |  Diego Molla | Deep learning and deep reinforcement learning for query-
 Sep 03 |  Steve Cassidy | Mining the Government Gazettes
 Sep 10 |  Rolf Schwitter | Answer Set Programming for Urbi et Orbi
 Sep 17 |  David Rajaratnam | A Taste of Answer Set Programming (ASP) - Research and Industry
-Sep 24 |  TBA | 
+Sep 24 |  No meeting | 
 ||
 Oct 01 |  No meeting | 
 
