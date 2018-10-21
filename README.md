@@ -31,6 +31,7 @@ Sep 24 |  No meeting |
 Oct 01 |  No meeting | 
 Oct 08 |  Diego Molla | [Personalizing Dialogue Agents: I have a dog, do you have pets too?](http://aclweb.org/anthology/P18-1205)
 Oct 15 |  Diego Molla | Challenges of Machine Learning for Text Processing
+Oct 22 | No meeting |
 
 
 ---
