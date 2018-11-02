@@ -33,6 +33,8 @@ Oct 08 |  Diego Molla | [Personalizing Dialogue Agents: I have a dog, do you hav
 Oct 15 |  Diego Molla | Challenges of Machine Learning for Text Processing
 Oct 22 | No meeting |
 Oct 29 | Yufei Wang | Deep Semantic Role Labelling with Syntactic Information
+||
+Nov 05 | Omid Mohamad Nezami | Senti-Attend: Image Captioning using Sentiment and Attention
 
 
 ---
