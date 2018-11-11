@@ -35,6 +35,7 @@ Oct 22 | No meeting |
 Oct 29 | Yufei Wang | Deep Semantic Role Labelling with Syntactic Information
 ||
 Nov 05 | Omid Mohamad Nezami | Senti-Attend: Image Captioning using Sentiment and Attention
+Nov 12 |  Yufei Wang | [Linguistically-Informed Self-Attention for Semantic Role Labeling](https://arxiv.org/abs/1804.08199)
 
 
 ---
