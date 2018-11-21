@@ -37,6 +37,7 @@ Oct 29 | Yufei Wang | Deep Semantic Role Labelling with Syntactic Information
 Nov 05 | Omid Mohamad Nezami | Senti-Attend: Image Captioning using Sentiment and Attention
 Nov 12 |  Yufei Wang | [Linguistically-Informed Self-Attention for Semantic Role Labeling](https://arxiv.org/abs/1804.08199)
 Nov 19 |  Wei Zhang | [Reading Wikipedia to Answer Open-Domain Questions (Chen et al, ACL 2017)](https://aclanthology.info/papers/P17-1171/p17-1171)
+Nov 26 | Bayzid Hossain | Specifying Conceptual Models Using Restricted Natural Language
 
 
 ---
