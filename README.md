@@ -38,21 +38,3 @@ Nov 05 | Omid Mohamad Nezami | Senti-Attend: Image Captioning using Sentiment an
 Nov 12 |  Yufei Wang | [Linguistically-Informed Self-Attention for Semantic Role Labeling](https://arxiv.org/abs/1804.08199)
 Nov 19 |  Wei Zhang | [Reading Wikipedia to Answer Open-Domain Questions (Chen et al, ACL 2017)](https://aclanthology.info/papers/P17-1171/p17-1171)
 Nov 26 | Bayzid Hossain | Specifying Conceptual Models Using Restricted Natural Language
-
-
----
-### Presenters
-
-Abbreviation | Name
------------- | ----
-CY | Chris Yong
-DM | Diego Molla
-GK | Georgie Kennedy
-GP | Glen Pink
-MD | Mark Dras
-MJ | Mark Johnson
-MS | Maryam Shahpasand
-MY | Mahmood Yousefiazar
-NF | Natasha Fernandes
-PA | Peter Anderson
-PS | Philip Schulz
