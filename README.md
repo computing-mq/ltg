@@ -39,4 +39,4 @@ Nov 12 |  Yufei Wang | [Linguistically-Informed Self-Attention for Semantic Role
 Nov 19 |  Wei Zhang | [Reading Wikipedia to Answer Open-Domain Questions (Chen et al, ACL 2017)](https://aclanthology.info/papers/P17-1171/p17-1171)
 Nov 26 | Bayzid Hossain | Specifying Conceptual Models Using Restricted Natural Language
 ||
-Dec 03 | Aditya Joshi | Investigations in computational sarcasm
+Dec 03 | Aditya Joshi | [Investigations in computational sarcasm](https://github.com/computing-mq/ltg/blob/master/presentations/sarcasm-talk-csiro.pdf)
