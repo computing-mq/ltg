@@ -18,6 +18,13 @@ like to get more information or to join the mailing list.
 Date | [Presenter](#presenters) | Topic
 ----- | --------- | -----
 ||
+Feb 11 &nbsp;&nbsp; |  Weiling Chen and Mark Johnson | [Neural Approaches to Conversational AI: Question Answering, Task-Oriented Dialogues and Social Chatbots](https://www.microsoft.com/en-us/research/uploads/prod/2018/07/neural-approaches-to-conversational-AI.pdf)
+
+
+### 2018
+Date | [Presenter](#presenters) | Topic
+----- | --------- | -----
+||
 Aug 06 &nbsp;&nbsp; |  Omid Mohamad Nezami | [Face-Cap: Image Captioning using Facial Expression Analysis](https://arxiv.org/abs/1807.02250)
 Aug 13 |  Paria Jamhsid Lou | [Parsing Speech: A Neural Approach to Integrating Lexical and Acoustic-Prosodic Information](https://arxiv.org/pdf/1704.07287.pdf)
 Aug 20 |  Jiwei Guan | [Introducing a real time object detection framework—YOLO](https://pjreddie.com/media/files/papers/YOLOv3.pdf)
