@@ -22,7 +22,7 @@ Mar 04 &nbsp;&nbsp; | Emmanuel Chemla | Reconstruction of ancient calls - work i
 ||
 Feb 11 &nbsp;&nbsp; |  Weiling Chen and Mark Johnson | [Neural Approaches to Conversational AI: Question Answering, Task-Oriented Dialogues and Social Chatbots](https://www.microsoft.com/en-us/research/uploads/prod/2018/07/neural-approaches-to-conversational-AI.pdf)
 
-
+---
 ### 2018
 Date | [Presenter](#presenters) | Topic
 ----- | --------- | -----
