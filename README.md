@@ -15,7 +15,7 @@ like to get more information or to join the mailing list.
 
 ### Papers / Topics
 
-Date | [Presenter](#presenters) | Topic
+Date | Presenter | Topic
 ----- | --------- | -----
 ||
 Mar 04 &nbsp;&nbsp; | Emmanuel Chemla | Reconstruction of ancient calls - work in progress/discussion
@@ -24,7 +24,7 @@ Feb 11 &nbsp;&nbsp; |  Weiling Chen and Mark Johnson | [Neural Approaches to Con
 
 ---
 ### 2018
-Date | [Presenter](#presenters) | Topic
+Date | Presenter | Topic
 ----- | --------- | -----
 ||
 Aug 06 &nbsp;&nbsp; |  Omid Mohamad Nezami | [Face-Cap: Image Captioning using Facial Expression Analysis](https://arxiv.org/abs/1807.02250)
