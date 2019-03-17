@@ -5,21 +5,18 @@
 This group meets weekly within the
 [Department of Computing](http://comp.mq.edu.au), [Macquarie University](https://www.mq.edu.au/).
 
-We meet on Monday mornings (unless otherwise specified *),
-11.00-12.30pm in the Department's seminar room: [9WW
-357](https://www.mq.edu.au/about/contacts-and-maps/maps).  All are
-welcome to join us.
+We meet on Monday mornings 11.00-12.30pm in room 221, 4 Research Park Drive.  
+All are welcome to join us.
 
-Contact [Diego Molla](http://web.science.mq.edu.au/~diego/) if you'd
-like to get more information or to join the mailing list. 
+Contact [Diego Molla](http://web.science.mq.edu.au/~diego/) if you'd like to get more information or to join the mailing list. 
 
 ### Papers / Topics
 
 Date | Presenter | Topic
 ----- | --------- | -----
 ||
+Mar 18 &nbsp;&nbsp; | Chris Jones | Neural Extractive Document Summarisation [1](https://arxiv.org/abs/1611.04230) [2](https://arxiv.org/abs/1808.07187)
 Mar 04 &nbsp;&nbsp; | Emmanuel Chemla | Reconstruction of ancient calls - work in progress/discussion
-||
 Feb 11 &nbsp;&nbsp; |  Weiling Chen and Mark Johnson | [Neural Approaches to Conversational AI: Question Answering, Task-Oriented Dialogues and Social Chatbots](https://www.microsoft.com/en-us/research/uploads/prod/2018/07/neural-approaches-to-conversational-AI.pdf)
 
 ---
@@ -49,3 +46,5 @@ Nov 19 |  Wei Zhang | [Reading Wikipedia to Answer Open-Domain Questions (Chen e
 Nov 26 | Bayzid Hossain | Specifying Conceptual Models Using Restricted Natural Language
 ||
 Dec 03 | Aditya Joshi | [Investigations in computational sarcasm](https://github.com/computing-mq/ltg/blob/master/presentations/sarcasm-talk-csiro.pdf)
+
+
