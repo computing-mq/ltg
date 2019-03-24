@@ -15,6 +15,7 @@ Contact [Diego Molla](http://web.science.mq.edu.au/~diego/) if you'd like to get
 Date | Presenter | Topic
 ----- | --------- | -----
 ||
+Mar 25 &nbsp;&nbsp; | Fred Amouzgar | [Continuous control with deep reinforcement learning](https://arxiv.org/abs/1509.02971)
 Mar 18 &nbsp;&nbsp; | Chris Jones | Neural Extractive Document Summarisation [1](https://arxiv.org/abs/1611.04230) [2](https://arxiv.org/abs/1808.07187)
 Mar 04 &nbsp;&nbsp; | Emmanuel Chemla | Reconstruction of ancient calls - work in progress/discussion
 Feb 11 &nbsp;&nbsp; |  Weiling Chen and Mark Johnson | [Neural Approaches to Conversational AI: Question Answering, Task-Oriented Dialogues and Social Chatbots](https://www.microsoft.com/en-us/research/uploads/prod/2018/07/neural-approaches-to-conversational-AI.pdf)
