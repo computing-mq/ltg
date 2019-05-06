@@ -14,6 +14,7 @@ Contact [Diego Molla](http://web.science.mq.edu.au/~diego/) if you'd like to get
 
 Date | Presenter | Topic
 ----- | --------- | -----
+May 06 &nbsp;&nbsp; | No meeting | 
 ||
 Apr 29 &nbsp;&nbsp; | No meeting | 
 Apr 22 &nbsp;&nbsp; | No meeting | 
