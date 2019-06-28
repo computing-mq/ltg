@@ -14,6 +14,7 @@ Contact [Diego Molla](http://web.science.mq.edu.au/~diego/) if you'd like to get
 
 Date | Presenter | Topic
 ----- | --------- | -----
+July 1 &nbsp;&nbsp; | Rolf Schwitter | Augmenting an Answer Set based Controlled Natural Language with Temporal Expressions 
 June 3 &nbsp;&nbsp; | Urvashi Khanna | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
 May 27 &nbsp;&nbsp; | Diego Molla | Comparing Minimum Risk Training and REINFORCE
 May 20 &nbsp;&nbsp; | Fred Amouzgar | [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
