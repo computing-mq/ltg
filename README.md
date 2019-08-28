@@ -14,8 +14,15 @@ Contact [Diego Molla](http://web.science.mq.edu.au/~diego/) if you'd like to get
 
 Date | Presenter | Topic
 ----- | --------- | -----
-July 1 &nbsp;&nbsp; | Rolf Schwitter | Augmenting an Answer Set based Controlled Natural Language with Temporal Expressions 
-June 3 &nbsp;&nbsp; | Urvashi Khanna | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
+Sep 12 &nbsp;&nbsp; | Ian Wood | Unsupervised Induction of Predicate Entailments using Box Embeddings
+Aug 19 &nbsp;&nbsp; | Steve Cassidy | Voice Presentation Attack Detection Using Convolutional Neural Networks
+Aug 12 &nbsp;&nbsp; | Abdus Salam | Answering Why-Questions using Probabilistic Logic Programming
+Aug 5  &nbsp;&nbsp; | Sonit Singh | [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237)
+Jul 29  &nbsp;&nbsp; | Kevin Purnell | A Proposal for Improving 'Smart Contracts'
+Jul 22  &nbsp;&nbsp; | Bayzid Hossain | Semantic Round-Tripping in Conceptual Modelling using Restricted Natural Language
+Jul 15  &nbsp;&nbsp; | Yufei Wang |  [How to best use Syntax in Semantic Role Labelling](https://arxiv.org/abs/1906.00266)
+Jul 1 &nbsp;&nbsp; | Rolf Schwitter | Augmenting an Answer Set based Controlled Natural Language with Temporal Expressions 
+Jun 3 &nbsp;&nbsp; | Urvashi Khanna | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
 May 27 &nbsp;&nbsp; | Diego Molla | Comparing Minimum Risk Training and REINFORCE
 May 20 &nbsp;&nbsp; | Fred Amouzgar | [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
 May 13 &nbsp;&nbsp; | Steve Cassidy| Speaker Identification and Verification
