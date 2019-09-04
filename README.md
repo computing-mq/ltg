@@ -14,7 +14,8 @@ Contact [Diego Molla](http://web.science.mq.edu.au/~diego/) if you'd like to get
 
 Date | Presenter | Topic
 ----- | --------- | -----
-Sep 12 &nbsp;&nbsp; | Ian Wood | Unsupervised Induction of Predicate Entailments using Box Embeddings
+Sep 9 &nbsp;&nbsp; | Diego Molla | [Classification Betters Regression in Query-based Multi-document Summarisation Techniques for Question Answering: Macquarie University at BioASQ 7b](https://arxiv.org/abs/1909.00542)
+Sep 2 &nbsp;&nbsp; | Ian Wood | Unsupervised Induction of Predicate Entailments using Box Embeddings
 Aug 19 &nbsp;&nbsp; | Steve Cassidy | Voice Presentation Attack Detection Using Convolutional Neural Networks
 Aug 12 &nbsp;&nbsp; | Abdus Salam | Answering Why-Questions using Probabilistic Logic Programming
 Aug 5  &nbsp;&nbsp; | Sonit Singh | [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237)
