@@ -10,7 +10,7 @@ All are welcome to join us.
 
 Contact [Diego Molla](http://web.science.mq.edu.au/~diego/) if you'd like to get more information or to join the mailing list. 
 
-### Papers / Topics for 2010
+### Papers / Topics for 2020
 
 Date | Presenter | Topic
 ----- | --------- | -----
