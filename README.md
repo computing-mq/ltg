@@ -10,10 +10,11 @@ All are welcome to join us.
 
 Contact [Diego Molla](http://web.science.mq.edu.au/~diego/) if you'd like to get more information or to join the mailing list. 
 
-### Papers / Topics
+### Papers / Topics for 2010
 
 Date | Presenter | Topic
 ----- | --------- | -----
+Nov 4 &nbsp;&nbsp; | Yufei Wang | Captioning Images Containing Novel Objects
 Sep 9 &nbsp;&nbsp; | Diego Molla | [Classification Betters Regression in Query-based Multi-document Summarisation Techniques for Question Answering: Macquarie University at BioASQ 7b](https://arxiv.org/abs/1909.00542)
 Sep 2 &nbsp;&nbsp; | Ian Wood | Unsupervised Induction of Predicate Entailments using Box Embeddings
 Aug 19 &nbsp;&nbsp; | Steve Cassidy | Voice Presentation Attack Detection Using Convolutional Neural Networks
