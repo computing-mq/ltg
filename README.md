@@ -14,6 +14,7 @@ Contact [Diego Molla](http://web.science.mq.edu.au/~diego/) if you'd like to get
 
 Date | Presenter | Topic
 ----- | --------- | -----
+Nov 11 &nbsp;&nbsp; | Ian Wood | [Matching the Blanks: Distributional Similarity for Relation Learning](https://arxiv.org/abs/1906.03158)
 Nov 4 &nbsp;&nbsp; | Yufei Wang | Captioning Images Containing Novel Objects
 Sep 9 &nbsp;&nbsp; | Diego Molla | [Classification Betters Regression in Query-based Multi-document Summarisation Techniques for Question Answering: Macquarie University at BioASQ 7b](https://arxiv.org/abs/1909.00542)
 Sep 2 &nbsp;&nbsp; | Ian Wood | Unsupervised Induction of Predicate Entailments using Box Embeddings
