@@ -14,6 +14,7 @@ Contact [Diego Molla](http://web.science.mq.edu.au/~diego/) if you'd like to get
 
 Date | Presenter | Topic
 ----- | --------- | -----
+Nov 25 &nbsp;&nbsp; | Jason Hepburn | Abstractive Summarisation for Biomedical Question Answering
 Nov 18 &nbsp;&nbsp; | Gayathri Rajan | An Interactive Web Interface for Conceptual Models
 Nov 11 &nbsp;&nbsp; | Ian Wood | [Matching the Blanks: Distributional Similarity for Relation Learning](https://arxiv.org/abs/1906.03158)
 Nov 4 &nbsp;&nbsp; | Yufei Wang | Captioning Images Containing Novel Objects
