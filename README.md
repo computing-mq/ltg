@@ -10,6 +10,15 @@ All are welcome to join us.
 
 Contact [Diego Molla](http://web.science.mq.edu.au/~diego/) if you'd like to get more information or to join the mailing list. 
 
+[2019](2019/README.md) [2018](2018/README.md)
+
+### Papers / Topics for 2020
+
+Date | Presenter | Topic
+----- | --------- | -----
+Feb 17 &nbsp;&nbsp; | Ian Wood | [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://www.aclweb.org/anthology/D19-1410/)
+
+
 ### Papers / Topics for 2019
 
 Date | Presenter | Topic
