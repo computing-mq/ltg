@@ -16,4 +16,5 @@ Contact [Diego Molla](http://web.science.mq.edu.au/~diego/) if you'd like to get
 
 Date | Presenter | Topic
 ----- | --------- | -----
+Feb 24 &nbsp;&nbsp; | Steve Cassidy | CNN For Voice Antispoofing: Reproduction
 Feb 17 &nbsp;&nbsp; | Ian Wood | [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://www.aclweb.org/anthology/D19-1410/)
