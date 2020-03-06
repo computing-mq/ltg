@@ -16,5 +16,6 @@ Contact [Diego Molla](http://web.science.mq.edu.au/~diego/) if you'd like to get
 
 Date | Presenter | Topic
 ----- | --------- | -----
+Mar 9 &nbsp;&nbsp; | Paria Jamshid Lou | [Self-Attention with Relative Position Representations](https://www.aclweb.org/anthology/N18-2074.pdf)
 Feb 24 &nbsp;&nbsp; | Steve Cassidy | CNN For Voice Antispoofing: Reproduction
 Feb 17 &nbsp;&nbsp; | Ian Wood | [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://www.aclweb.org/anthology/D19-1410/)
