@@ -16,6 +16,7 @@ Contact [Diego Molla](http://web.science.mq.edu.au/~diego/) if you'd like to get
 
 Date | Presenter | Topic
 ----- | --------- | -----
+Mar 16 &nbsp;&nbsp; | Fengxiang He | [Control Batch Size and Learning Rate to Generalize Well: Theoretical and Empirical Evidence](http://papers.nips.cc/paper/8398-control-batch-size-and-learning-rate-to-generalize-well-theoretical-and-empirical-evidence)
 Mar 9 &nbsp;&nbsp; | Paria Jamshid Lou | [Self-Attention with Relative Position Representations](https://www.aclweb.org/anthology/N18-2074.pdf)
 Feb 24 &nbsp;&nbsp; | Steve Cassidy | CNN For Voice Antispoofing: Reproduction
 Feb 17 &nbsp;&nbsp; | Ian Wood | [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://www.aclweb.org/anthology/D19-1410/)
