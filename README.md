@@ -16,6 +16,7 @@ Contact [Diego Molla](http://web.science.mq.edu.au/~diego/) if you'd like to get
 
 Date | Presenter | Topic
 ----- | --------- | -----
+Jun 15 &nbsp;&nbsp; | Sonit Singh | [Optimizing the Factual Correctness of a Summary: A Study of Summarizing Radiology Reports](https://arxiv.org/abs/1911.02541)
 May 11 &nbsp;&nbsp; | Fengxiang He | [Control Batch Size and Learning Rate to Generalize Well: Theoretical and Empirical Evidence](http://papers.nips.cc/paper/8398-control-batch-size-and-learning-rate-to-generalize-well-theoretical-and-empirical-evidence)
 Apr 20 &nbsp;&nbsp; | Abdus Salam | Explaining the Prediction of a Machine Learning Model
 Mar 9 &nbsp;&nbsp; | Paria Jamshid Lou | [Self-Attention with Relative Position Representations](https://www.aclweb.org/anthology/N18-2074.pdf)
