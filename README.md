@@ -16,7 +16,8 @@ Contact [Diego Molla](http://web.science.mq.edu.au/~diego/) if you'd like to get
 
 Date | Presenter | Topic
 ----- | --------- | -----
-Auf 31 &nbsp;&nbsp; | Diego Molla | Query Focused Multi-document Summarisation of Biomedical Texts
+Sep 28 &nbsp;&nbsp; | Diego Molla | Reflections on CLEF2020 and BioASQ8b
+Aug 31 &nbsp;&nbsp; | Diego Molla | [Query Focused Multi-document Summarisation of Biomedical Texts](https://arxiv.org/abs/2008.11986)
 Jun 29 &nbsp;&nbsp; | Rhys Biddle | Leveraging Sentiment Distributions to Distinguish Figurative From Literal Health Reports on Twitter
 Jun 15 &nbsp;&nbsp; | Sonit Singh | [Optimizing the Factual Correctness of a Summary: A Study of Summarizing Radiology Reports](https://arxiv.org/abs/1911.02541)
 May 11 &nbsp;&nbsp; | Fengxiang He | [Control Batch Size and Learning Rate to Generalize Well: Theoretical and Empirical Evidence](http://papers.nips.cc/paper/8398-control-batch-size-and-learning-rate-to-generalize-well-theoretical-and-empirical-evidence)
