@@ -16,7 +16,7 @@ Contact [Diego Molla](http://web.science.mq.edu.au/~diego/) if you'd like to get
 
 Date | Presenter | Topic
 ----- | --------- | -----
-Oct 12 &nbsp;&nbsp; | Jack Fenton | Summary of Covid-19 literature extraction and question answering tools
+Oct 12 &nbsp;&nbsp; | Jack Fenton | [Summary of Covid-19 literature extraction and question answering tools](/presentations/2020-10-12-JackFenton.pptx)
 Sep 28 &nbsp;&nbsp; | Diego Molla | Reflections on CLEF2020 and BioASQ8b
 Aug 31 &nbsp;&nbsp; | Diego Molla | [Query Focused Multi-document Summarisation of Biomedical Texts](https://arxiv.org/abs/2008.11986)
 Jun 29 &nbsp;&nbsp; | Rhys Biddle | Leveraging Sentiment Distributions to Distinguish Figurative From Literal Health Reports on Twitter
