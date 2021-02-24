@@ -17,3 +17,4 @@ Contact [Diego Molla](http://web.science.mq.edu.au/~diego/) if you'd like to get
 Date | Presenter | Topic
 ----- | --------- | -----
 Jan 18 &nbsp;&nbsp; | Diego Molla | My participation at the BioASQ Synergy Task: Question Answering for COVID-19
+Mar 1 &nbsp;&nbsp; | Greg Baker | An introduction to p-adic metrics in machine learning and their application to computational morphology
