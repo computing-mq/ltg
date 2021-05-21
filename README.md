@@ -16,5 +16,6 @@ Contact [Diego Molla](http://web.science.mq.edu.au/~diego/) if you'd like to get
 
 Date | Presenter | Topic
 ----- | --------- | -----
-Jan 18 &nbsp;&nbsp; | Diego Molla | My participation at the BioASQ Synergy Task: Question Answering for COVID-19
+May 24 &nbsp;&nbsp; | Diego Molla, Urvashi Khanna | Macquarie University participation in the BioASQ 2021 challenges
 Mar 1 &nbsp;&nbsp; | Greg Baker | An introduction to p-adic metrics in machine learning and their application to computational morphology
+Jan 18 &nbsp;&nbsp; | Diego Molla | My participation at the BioASQ Synergy Task: Question Answering for COVID-19
