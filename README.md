@@ -16,6 +16,7 @@ Contact [Diego Molla](http://web.science.mq.edu.au/~diego/) if you'd like to get
 
 Date | Presenter | Topic
 ----- | --------- | -----
+November 8 &nbsp;&nbsp; | Kevin Purnell | User-Defined Smart Contracts using Answer Set Programming
 September 13 &nbsp;&nbsp; | Rana Ali | Unintended Memorisation and Timing Attacks in Named Entity Recognition Models
 August 9 &nbsp;&nbsp; | Natasha Fernandes | Comparing Systems: Quantitative Information Flow Refinement Orders and Application to Differential Privacy
 May 24 &nbsp;&nbsp; | Diego Molla, Urvashi Khanna | Macquarie University participation in the BioASQ 2021 challenges ([slides](presentations/LTG2021_05_DiegoMolla.pdf))
