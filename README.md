@@ -18,4 +18,4 @@ Date | Presenter | Topic
 ----- | --------- | -----
 February 14 &nbsp;&nbsp; | Na Liu | A Simple General Method for Detecting Textual Adversarial Examples
 April 04 &nbsp;&nbsp; | Yufei Wang | (HDR Research Rising Star series) [PromDA: Prompt-based Data Augmentation for Low-Resource NLU Tasks](https://arxiv.org/abs/2202.12499) ([slides](/presentations/2022-04-04-YufeiWang.pdf)) ([recording](https://macquarie.zoom.us/rec/share/_Oqf0M8EqaNdVqrhjyISIXdchcHUx31D4UqpfyA45h9Fx77HGysyV9N5491RbS9_.gCYGCV6Boouibwzv))
-
+April 11 &nbsp;&nbsp; | Jason Ng | Bayesian Inference for Document-Level Event Causal Relation Identification
