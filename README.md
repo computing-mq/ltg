@@ -16,6 +16,7 @@ Contact [Diego Molla](http://web.science.mq.edu.au/~diego/) if you'd like to get
 
 Date | Presenter | Topic
 ----- | --------- | -----
-February 14 &nbsp;&nbsp; | Na Liu | A Simple General Method for Detecting Textual Adversarial Examples
-April 04 &nbsp;&nbsp; | Yufei Wang | (HDR Research Rising Star series) [PromDA: Prompt-based Data Augmentation for Low-Resource NLU Tasks](https://arxiv.org/abs/2202.12499) ([slides](/presentations/2022-04-04-YufeiWang.pdf)) ([recording](https://macquarie.zoom.us/rec/share/_Oqf0M8EqaNdVqrhjyISIXdchcHUx31D4UqpfyA45h9Fx77HGysyV9N5491RbS9_.gCYGCV6Boouibwzv))
+May 16 &nbsp;&nbsp; | Congbo Ma | [Multi-document Summarization via Deep Learning Techniques](https://dl.acm.org/doi/10.1145/3529754)
 April 11 &nbsp;&nbsp; | Jason Ng | Bayesian Inference for Document-Level Event Causal Relation Identification
+April 04 &nbsp;&nbsp; | Yufei Wang | (HDR Research Rising Star series) [PromDA: Prompt-based Data Augmentation for Low-Resource NLU Tasks](https://arxiv.org/abs/2202.12499) ([slides](/presentations/2022-04-04-YufeiWang.pdf)) ([recording](https://macquarie.zoom.us/rec/share/_Oqf0M8EqaNdVqrhjyISIXdchcHUx31D4UqpfyA45h9Fx77HGysyV9N5491RbS9_.gCYGCV6Boouibwzv))
+February 14 &nbsp;&nbsp; | Na Liu | A Simple General Method for Detecting Textual Adversarial Examples
