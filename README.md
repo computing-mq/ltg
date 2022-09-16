@@ -16,6 +16,7 @@ Contact [Diego Molla](http://web.science.mq.edu.au/~diego/) if you'd like to get
 
 Date | Presenter | Topic
 ----- | --------- | -----
+September 19 &nbsp;&nbsp; | Diego Molla | Report from BioASQ 10
 June 6 &nbsp;&nbsp; | Na Liu | Using adaptive learning rate to accelerate the training of neural networks
 May 16 &nbsp;&nbsp; | Congbo Ma | [Multi-document Summarization via Deep Learning Techniques](https://dl.acm.org/doi/10.1145/3529754)
 April 11 &nbsp;&nbsp; | Jason Ng | Bayesian Inference for Document-Level Event Causal Relation Identification
