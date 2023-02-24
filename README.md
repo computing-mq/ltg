@@ -10,15 +10,10 @@ All are welcome to join us.
 
 Contact [Diego Molla](http://web.science.mq.edu.au/~diego/) if you'd like to get more information or to join the mailing list. 
 
-[2021](/2021/README.md) [2020](/2020/README.md) [2019](/2019/README.md) [2018](/2018/README.md)
+[2022](/2022/README.md) [2021](/2021/README.md) [2020](/2020/README.md) [2019](/2019/README.md) [2018](/2018/README.md)
 
-### Papers / Topics for 2022
+### Papers / Topics for 2023
 
 Date | Presenter | Topic
 ----- | --------- | -----
-September 19 &nbsp;&nbsp; | Diego Molla | Report from BioASQ 10
-June 6 &nbsp;&nbsp; | Na Liu | Using adaptive learning rate to accelerate the training of neural networks
-May 16 &nbsp;&nbsp; | Congbo Ma | [Multi-document Summarization via Deep Learning Techniques](https://dl.acm.org/doi/10.1145/3529754)
-April 11 &nbsp;&nbsp; | Jason Ng | Bayesian Inference for Document-Level Event Causal Relation Identification
-April 04 &nbsp;&nbsp; | Yufei Wang | (HDR Research Rising Star series) [PromDA: Prompt-based Data Augmentation for Low-Resource NLU Tasks](https://arxiv.org/abs/2202.12499) ([slides](/presentations/2022-04-04-YufeiWang.pdf)) ([recording](https://macquarie.zoom.us/rec/share/_Oqf0M8EqaNdVqrhjyISIXdchcHUx31D4UqpfyA45h9Fx77HGysyV9N5491RbS9_.gCYGCV6Boouibwzv))
-February 14 &nbsp;&nbsp; | Na Liu | A Simple General Method for Detecting Textual Adversarial Examples
+February 27 &nbsp;&nbsp; | Eduard Hovy | On the complementarity of neural and symbolic approaches, and on how to transfer between them
