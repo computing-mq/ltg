@@ -16,4 +16,5 @@ Contact [Diego Molla](http://web.science.mq.edu.au/~diego/) if you'd like to get
 
 Date | Presenter | Topic
 ----- | --------- | -----
+March 6 &nbsp;&nbsp; | Kevin Purnell | Towards Error-free Legal Smart Contracts without Programmers
 February 27 &nbsp;&nbsp; | Eduard Hovy | On the complementarity of neural and symbolic approaches, and on how to transfer between them
