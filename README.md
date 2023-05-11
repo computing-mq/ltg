@@ -16,6 +16,7 @@ Contact [Diego Molla](http://web.science.mq.edu.au/~diego/) if you'd like to get
 
 Date | Presenter | Topic
 ----- | --------- | -----
+May 15 &nbsp;&nbsp; | Jason Ng |  Identifying Causal Directions from Text: Unsupervised Learning using Bayesian Framework
 May 1 &nbsp;&nbsp; | Necva Bolucu | Meaning Representations for Natural Languages with Design and SOTA Models
 April 17 &nbsp;&nbsp; | Martin Volk | Starting and Running a Machine-Translation Company. The TextShuttle Story
 March 6 &nbsp;&nbsp; | Kevin Purnell | Towards Error-free Legal Smart Contracts without Programmers
