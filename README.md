@@ -16,6 +16,7 @@ Contact [Diego Molla](http://web.science.mq.edu.au/~diego/) if you'd like to get
 
 Date | Presenter | Topic
 ----- | --------- | -----
+June 19 &nbsp;&nbsp; | Yelaman Abdullin |  Designing Chatbots with OpenAI's API: A Dive into Language Model Tuning and Prompt Engineering
 May 15 &nbsp;&nbsp; | Jason Ng |  Identifying Causal Directions from Text: Unsupervised Learning using Bayesian Framework
 May 1 &nbsp;&nbsp; | Necva Bolucu | Meaning Representations for Natural Languages with Design and SOTA Models
 April 17 &nbsp;&nbsp; | Martin Volk | Starting and Running a Machine-Translation Company. The TextShuttle Story
