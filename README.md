@@ -16,6 +16,8 @@ Contact [Diego Molla](http://web.science.mq.edu.au/~diego/) if you'd like to get
 
 Date | Presenter | Topic
 ----- | --------- | -----
+November 20 &nbsp;&nbsp; | Yelaman Abdullin |  Synthetic Dialogue Dataset Generation using LLM Agents
+November 20 &nbsp;&nbsp; | Jason Ng |  Exploring Causal Directions through Word Occurrences: Semi-supervised Bayesian Classification Framework
 July 17 &nbsp;&nbsp; | Alex Turchin |  Using Natural Language Processing in Clinical Research
 June 19 &nbsp;&nbsp; | Yelaman Abdullin |  Designing Chatbots with OpenAI's API: A Dive into Language Model Tuning and Prompt Engineering [[slides](https://computing-mq.github.io/ltg/presentations/2023-06-19-Designing_Chatbots_with_OpenAI_s_API__A_Dive_into_Large_Language_Model_and_Prompt_Engineering.pdf)]
 May 15 &nbsp;&nbsp; | Jason Ng |  Identifying Causal Directions from Text: Unsupervised Learning using Bayesian Framework
