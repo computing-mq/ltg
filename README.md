@@ -17,5 +17,5 @@ Contact [Diego Molla](http://web.science.mq.edu.au/~diego/) if you'd like to get
 
 Date | Presenter | Topic
 ----- | --------- | -----
-January 23 &nbsp;&nbsp; | Prajna Upadhyay | Understanding Structured, Semi-structured, and Unstructured Data
+January 23 &nbsp;&nbsp; | Prajna Upadhyay | Understanding Structured, Semi-structured, and Unstructured Data [[recording](https://macquarie.zoom.us/rec/share/zb1roCW1m7iGzURS7DnsGXixIcdze0a_l-LYwnjavqkD_saMc3kSFTTghKGtI_Lq.3wrHfYqtAFzQVTKJ)]
 
