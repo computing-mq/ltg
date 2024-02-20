@@ -17,6 +17,6 @@ Contact [Diego Molla](http://web.science.mq.edu.au/~diego/) if you'd like to get
 
 Date | Presenter | Topic
 ----- | --------- | -----
-February 19 &nbsp;&nbsp; | Raphaël Millière | The Alignment Problem in Context [[Arxiv](https://arxiv.org/abs/2311.02147)]
+February 19 &nbsp;&nbsp; | Raphaël Millière | The Alignment Problem in Context [[Arxiv](https://arxiv.org/abs/2311.02147)] [[Slides](/presentations/2024-02-19%20Alignment%20Problem%20in%20Context.pptx)]
 January 23 &nbsp;&nbsp; | Prajna Upadhyay | Understanding Structured, Semi-structured, and Unstructured Data [[recording](https://macquarie.zoom.us/rec/share/zb1roCW1m7iGzURS7DnsGXixIcdze0a_l-LYwnjavqkD_saMc3kSFTTghKGtI_Lq.3wrHfYqtAFzQVTKJ)]
 
