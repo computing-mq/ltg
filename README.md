@@ -17,6 +17,9 @@ Contact [Diego Molla](http://web.science.mq.edu.au/~diego/) if you'd like to get
 
 Date | Presenter | Topic
 ----- | --------- | -----
+April 22 &nbsp;&nbsp; | Jun Wang | Backdoor Attack on Multilingual Machine Translation
+April 22 &nbsp;&nbsp; | Wanru Zhao | Attacks on Third-Party APIs of Large Language Models
+April 12 &nbsp;&nbsp; | Lea Frerman | Towards Integrated Computational Models of Media Framing: A Conceptualization and Initial Steps
 March 25 &nbsp;&nbsp; | Diego Molla | What I did during my OSP
 February 19 &nbsp;&nbsp; | Raphaël Millière | The Alignment Problem in Context [[Arxiv](https://arxiv.org/abs/2311.02147)] [[Slides](/ltg/presentations/2024-02-19%20Alignment%20Problem%20in%20Context.pptx)]
 January 23 &nbsp;&nbsp; | Prajna Upadhyay | Understanding Structured, Semi-structured, and Unstructured Data [[recording](https://macquarie.zoom.us/rec/share/zb1roCW1m7iGzURS7DnsGXixIcdze0a_l-LYwnjavqkD_saMc3kSFTTghKGtI_Lq.3wrHfYqtAFzQVTKJ)]
