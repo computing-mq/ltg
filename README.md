@@ -17,6 +17,7 @@ Contact [Diego Molla](http://web.science.mq.edu.au/~diego/) if you'd like to get
 
 Date | Presenter | Topic
 ----- | --------- | -----
+June 17 &nbsp;&nbsp; | Xuanli He | Sanitizing Poisoned Datasets for Training NLP Models [[EMNLP](https://aclanthology.org/2023.emnlp-main.60/)] [[TACL](https://arxiv.org/abs/2405.11575)]
 April 22 &nbsp;&nbsp; | Jun Wang | Backdoor Attack on Multilingual Machine Translation
 April 22 &nbsp;&nbsp; | Wanru Zhao | Attacks on Third-Party APIs of Large Language Models
 April 12 &nbsp;&nbsp; | Lea Frerman | Towards Integrated Computational Models of Media Framing: A Conceptualization and Initial Steps
